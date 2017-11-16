@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home2"
+            android:title="Início" />
+        <item
+            android:id="@+id/nav_ballet"
+            android:icon="@drawable/ballet1"
+            android:title="Ballet" />
+        <item
+            android:id="@+id/nav_jazz"
+            android:icon="@drawable/jazz3"
+            android:title="Jazz" />
+        <item
+            android:id="@+id/nav_salao"
+            android:icon="@drawable/salao1"
+            android:title="Dança de Salão" />
+        <item
+            android:id="@+id/nav_ventre"
+            android:icon="@drawable/ventre1"
+            android:title="Dança do Ventre" />
+        <item
+            android:id="@+id/nav_minist"
+            android:icon="@drawable/ministerio1"
+            android:title="Ministério de Dança" />
+        <item
+            android:id="@+id/nav_gin"
+            android:icon="@drawable/ritmica"
+            android:title="Ginástica Rítmica" />
+        <item
+            android:id="@+id/nav_moda"
+            android:icon="@drawable/moda1"
+            android:title="Moda Dança" />
+        <item
+            android:id="@+id/nav_diversos"
+            android:icon="@drawable/diversos1"
+            android:title="Diversos" />
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@drawable/contato"
+            android:title="Contato" />
+    </group>
+
+
+</menu>
